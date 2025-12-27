@@ -1,5 +1,5 @@
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F8FFF&center=true&vCenter=true&random=false&width=800&lines=Building+Products+That+Solve+Real+Problems;Full-Stack+%7C+MERN+%7C+Product-Focused+Builder;From+Database+to+Deployment%2C+I+Own+It+All;Startup+Mindset+%7C+Fast+Learner+%7C+Team+Leader)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F8FFF&center=true&vCenter=true&random=false&width=800&lines=Building+Products+That+Solve+Real+Problems;Full-Stack+%7C+MERN+%7C+Product-Focused+Builder;From+Database+to+Deployment%2C+I+Own+It+All;Startup+Mindset+%7C+Fast+Learner+%7C+Team+Leader)](https://git.io/typing-svg)
 <div align="center">
   <img src="https://img.shields.io/badge/🚀-Open_To_Work-success?style=for-the-badge" alt="open to work" />
   <img src="https://img.shields.io/badge/💼-Available_For_Opportunities-blue?style=for-the-badge" alt="available" />
