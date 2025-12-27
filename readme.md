@@ -9,8 +9,8 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jayavarsan&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/jayavarsan?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+  <img src="https://img.shields.io/badge/🚀-Open_To_Work-success?style=for-the-badge" alt="open to work" />
+  <img src="https://img.shields.io/badge/💼-Available_For_Opportunities-blue?style=for-the-badge" alt="available" />
   <a href="mailto:jayavarsanr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/jayavarsan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
@@ -85,37 +85,45 @@ const jayavarsan = {
 
 <div align="center">
 
-### 🎯 Core Stack (MERN)
+### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java&theme=dark" />
 </p>
 
-### 💻 Languages & Frameworks
+### 🎨 Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,nextjs,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,materialui&theme=dark" />
 </p>
 
-### 📱 Mobile & Frontend
+### 📱 Mobile Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,flutter,html,css,materialui&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,flutter&theme=dark" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
-### 🗄️ Backend & Databases
+### ⚙️ Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastify,spring,postgresql,mongodb,redis&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastify,spring&theme=dark" />
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
-### ☁️ DevOps & Tools
+### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,postman,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis&theme=dark" />
 </p>
 
-### 🤖 AI & Automation
+### 🤖 AI & Machine Learning
 <p>
   <img src="https://img.shields.io/badge/LLM_Integration-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/AI_Workflows-8A2BE2?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Predictive_Analytics-00C7B7?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Data_Pipelines-FF9900?style=for-the-badge&logo=apache&logoColor=white" />
+</p>
+
+### ☁️ DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,postman,vscode&theme=dark" />
+  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
 </div>
@@ -254,16 +262,23 @@ Node.js | Express | MongoDB | Web Scraping | Automation Scripts
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jayavarsan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3F8FFF&icon_color=3F8FFF&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayavarsan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F8FFF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jayavarsan-r&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3F8FFF&icon_color=3F8FFF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayavarsan-r&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F8FFF&text_color=FFFFFF"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayavarsan&theme=tokyonight&hide_border=true&background=0D1117&stroke=3F8FFF&ring=3F8FFF&fire=FF9900&currStreakLabel=FF9900" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayavarsan-r&theme=tokyonight&hide_border=true&background=0D1117&stroke=3F8FFF&ring=3F8FFF&fire=FF9900&currStreakLabel=FF9900" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayavarsan&bg_color=0D1117&color=3F8FFF&line=3F8FFF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+  
+### 📈 Coding Activity
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jayavarsan-r&theme=tokyonight" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jayavarsan-r&theme=tokyonight" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jayavarsan-r&theme=tokyonight" width="49%" />
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -346,7 +361,7 @@ Industry-driven program focused on:
 <a href="https://linkedin.com/in/jayavarsan">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/jayavarsan">
+<a href="https://github.com/jayavarsan-r">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="tel:+919025496316">
@@ -367,13 +382,42 @@ Industry-driven program focused on:
 
 <div align="center">
   
-### 🐍 Contribution Graph
+### 🏆 GitHub Trophies
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jayavarsan/jayavarsan/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jayavarsan/jayavarsan/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jayavarsan/jayavarsan/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://github-profile-trophy.vercel.app/?username=jayavarsan-r&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+
+### 💪 Skills Proficiency
+
+<table>
+<tr>
+<td width="50%">
+
+**Backend & APIs**
+![Backend](https://progress-bar.dev/90/?title=Node.js&width=300&color=68a063)
+![Backend](https://progress-bar.dev/85/?title=REST_APIs&width=300&color=009688)
+![Backend](https://progress-bar.dev/80/?title=PostgreSQL&width=300&color=336791)
+
+**Frontend**
+![Frontend](https://progress-bar.dev/85/?title=React&width=300&color=61dafb)
+![Frontend](https://progress-bar.dev/80/?title=TypeScript&width=300&color=3178c6)
+![Frontend](https://progress-bar.dev/75/?title=Next.js&width=300&color=000000)
+
+</td>
+<td width="50%">
+
+**AI & Automation**
+![AI](https://progress-bar.dev/85/?title=LLM_Integration&width=300&color=FF6F00)
+![AI](https://progress-bar.dev/80/?title=AI_Workflows&width=300&color=8A2BE2)
+![AI](https://progress-bar.dev/75/?title=Data_Pipelines&width=300&color=FF9900)
+
+**DevOps & Tools**
+![DevOps](https://progress-bar.dev/75/?title=AWS&width=300&color=FF9900)
+![DevOps](https://progress-bar.dev/80/?title=Docker&width=300&color=2496ED)
+![DevOps](https://progress-bar.dev/85/?title=CI/CD&width=300&color=2088FF)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -394,8 +438,8 @@ Industry-driven program focused on:
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
   
-  ### ⭐️ From [Jayavarsan](https://github.com/jayavarsan) | Made with 💙 and lots of ☕
+  ### ⭐️ From [Jayavarsan](https://github.com/jayavarsan-r) | Made with 💙 and lots of ☕
   
-  [![](https://visitcount.itsvg.in/api?id=jayavarsan&icon=0&color=0)](https://visitcount.itsvg.in)
+  [![](https://visitcount.itsvg.in/api?id=jayavarsan-r&icon=0&color=0)](https://visitcount.itsvg.in)
   
 </div>
