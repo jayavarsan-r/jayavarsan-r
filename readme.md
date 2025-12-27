@@ -418,8 +418,9 @@ Linux Administration   ██████████████░░░░░
 
 <div align="center">
   
-### 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### 🤖 Dev Thoughts
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&category=technology)
+
 
 
 </div>
