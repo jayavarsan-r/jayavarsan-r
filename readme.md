@@ -382,38 +382,52 @@ Industry-driven program focused on:
 
 <div align="center">
   
-### 🏆 GitHub Trophies
+### 🏆 GitHub Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=jayavarsan-r&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jayavarsan-r&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" />
+</p>
 
-### 💪 Skills Proficiency
+### 💪 Technical Expertise
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**Backend & APIs**
-![Backend](https://progress-bar.dev/90/?title=Node.js&width=300&color=68a063)
-![Backend](https://progress-bar.dev/85/?title=REST_APIs&width=300&color=009688)
-![Backend](https://progress-bar.dev/80/?title=PostgreSQL&width=300&color=336791)
+**🔧 Backend & APIs**
+```text
+Node.js & Express      ████████████████░░░░ 90%
+REST API Design        ████████████████░░░░ 85%
+PostgreSQL & MongoDB   ███████████████░░░░░ 80%
+System Architecture    ███████████████░░░░░ 75%
+```
 
-**Frontend**
-![Frontend](https://progress-bar.dev/85/?title=React&width=300&color=61dafb)
-![Frontend](https://progress-bar.dev/80/?title=TypeScript&width=300&color=3178c6)
-![Frontend](https://progress-bar.dev/75/?title=Next.js&width=300&color=000000)
+**🎨 Frontend Development**
+```text
+React & Next.js        ████████████████░░░░ 85%
+TypeScript             ███████████████░░░░░ 80%
+Tailwind CSS           ███████████████░░░░░ 75%
+React Native           ██████████████░░░░░░ 70%
+```
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**AI & Automation**
-![AI](https://progress-bar.dev/85/?title=LLM_Integration&width=300&color=FF6F00)
-![AI](https://progress-bar.dev/80/?title=AI_Workflows&width=300&color=8A2BE2)
-![AI](https://progress-bar.dev/75/?title=Data_Pipelines&width=300&color=FF9900)
+**🤖 AI & Automation**
+```text
+LLM Integration        ████████████████░░░░ 85%
+AI Workflows           ███████████████░░░░░ 80%
+Data Pipelines         ███████████████░░░░░ 75%
+Predictive Analytics   ██████████████░░░░░░ 70%
+```
 
-**DevOps & Tools**
-![DevOps](https://progress-bar.dev/75/?title=AWS&width=300&color=FF9900)
-![DevOps](https://progress-bar.dev/80/?title=Docker&width=300&color=2496ED)
-![DevOps](https://progress-bar.dev/85/?title=CI/CD&width=300&color=2088FF)
+**☁️ DevOps & Tools**
+```text
+Git & GitHub           ████████████████░░░░ 85%
+Docker & CI/CD         ███████████████░░░░░ 80%
+AWS Basics             ███████████████░░░░░ 75%
+Linux Administration   ██████████████░░░░░░ 70%
+```
 
 </td>
 </tr>
