@@ -382,11 +382,32 @@ Industry-driven program focused on:
 
 <div align="center">
   
-### 🏆 GitHub Achievements
+### 🏆 Achievements & Highlights
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jayavarsan-r&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" />
-</p>
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🎓-CTF_Winner-FFD700?style=for-the-badge" /><br/>
+<b>University of London</b><br/>
+<sub>International Competition</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/💻-Hackathon_Winner-FF6B6B?style=for-the-badge" /><br/>
+<b>Multiple Wins</b><br/>
+<sub>Team Leadership</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/👔-Club_President-4ECDC4?style=for-the-badge" /><br/>
+<b>Entrepreneurship Club</b><br/>
+<sub>Leadership & Innovation</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/💼-Product_Lead-95E1D3?style=for-the-badge" /><br/>
+<b>Future Sportler</b><br/>
+<sub>Startup Experience</sub>
+</td>
+</tr>
+</table>
 
 ### 💪 Technical Expertise
 
