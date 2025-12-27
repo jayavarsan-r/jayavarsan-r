@@ -370,12 +370,6 @@ Industry-driven program focused on:
 
 <br/><br/>
 
-### 💬 If you're building something interesting, let's talk!
-
-<!-- <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" /> **Currently:** Building full-stack products & exploring AI automation  
-<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="30" /> **Learning:** System design, scalable architectures & DevOps  
-<img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d205ab4.png" width="30" /> **Open to:** Full-time roles, freelance projects & collaborations -->
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
