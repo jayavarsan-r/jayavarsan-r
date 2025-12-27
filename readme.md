@@ -1,20 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jayavarsan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20|%20Backend%20%26%20AI%20Systems&descAlignY=51&descAlign=50" width="100%"/>
+👋 Hi, I'm Jayavarsan
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3F8FFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Backend+%26+AI+Systems+Engineer;MERN+Stack+Specialist;Building+Products+That+Matter" alt="Typing SVG" />
+<br/>
+🚀 Full-Stack Developer | MERN Stack | Product-Focused Builder
+From Database to Deployment, I Own It All
+<br/>
 </div>
-
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F8FFF&center=true&vCenter=true&random=false&width=800&lines=Building+Products+That+Solve+Real+Problems;Full-Stack+%7C+MERN+%7C+Product-Focused+Builder;From+Database+to+Deployment%2C+I+Own+It+All;Startup+Mindset+%7C+Fast+Learner+%7C+Team+Leader)](https://git.io/typing-svg)
-  
-</div>
-
 <div align="center">
   <img src="https://img.shields.io/badge/🚀-Open_To_Work-success?style=for-the-badge" alt="open to work" />
   <img src="https://img.shields.io/badge/💼-Available_For_Opportunities-blue?style=for-the-badge" alt="available" />
   <a href="mailto:jayavarsanr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/jayavarsan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
-
 <br/>
 
 ## 🚀 About Me
