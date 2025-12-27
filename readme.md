@@ -261,14 +261,7 @@ Node.js | Express | MongoDB | Web Scraping | Automation Scripts
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jayavarsan-r&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3F8FFF&icon_color=3F8FFF&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayavarsan-r&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F8FFF&text_color=FFFFFF"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayavarsan-r&theme=tokyonight&hide_border=true&background=0D1117&stroke=3F8FFF&ring=3F8FFF&fire=FF9900&currStreakLabel=FF9900" alt="GitHub Streak" />
-</div>
 
 <div align="center">
   
