@@ -372,9 +372,9 @@ Industry-driven program focused on:
 
 ### 💬 If you're building something interesting, let's talk!
 
-<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" /> **Currently:** Building full-stack products & exploring AI automation  
+<!-- <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" /> **Currently:** Building full-stack products & exploring AI automation  
 <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="30" /> **Learning:** System design, scalable architectures & DevOps  
-<img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d205ab4.png" width="30" /> **Open to:** Full-time roles, freelance projects & collaborations
+<img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d205ab4.png" width="30" /> **Open to:** Full-time roles, freelance projects & collaborations -->
 
 </div>
 
@@ -382,32 +382,7 @@ Industry-driven program focused on:
 
 <div align="center">
   
-### 🏆 Achievements & Highlights
 
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🎓-CTF_Winner-FFD700?style=for-the-badge" /><br/>
-<b>University of London</b><br/>
-<sub>International Competition</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/💻-Hackathon_Winner-FF6B6B?style=for-the-badge" /><br/>
-<b>Multiple Wins</b><br/>
-<sub>Team Leadership</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/👔-Club_President-4ECDC4?style=for-the-badge" /><br/>
-<b>Entrepreneurship Club</b><br/>
-<sub>Leadership & Innovation</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/💼-Product_Lead-95E1D3?style=for-the-badge" /><br/>
-<b>Future Sportler</b><br/>
-<sub>Startup Experience</sub>
-</td>
-</tr>
-</table>
 
 ### 💪 Technical Expertise
 
