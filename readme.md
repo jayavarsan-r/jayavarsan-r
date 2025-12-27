@@ -5,12 +5,13 @@
 Show Image
 </div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jayavarsan&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/jayavarsan?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+  <img src="https://img.shields.io/badge/🚀-Open_To_Work-success?style=for-the-badge" alt="open to work" />
+  <img src="https://img.shields.io/badge/💼-Available_For_Opportunities-blue?style=for-the-badge" alt="available" />
   <a href="mailto:jayavarsanr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/jayavarsan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 <br/>
+
 
 ## 🚀 About Me
 
