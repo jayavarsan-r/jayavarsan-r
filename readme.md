@@ -19,7 +19,7 @@
 const jayavarsan = {
     location: "Chennai, Tamil Nadu 🇮🇳",
     role: "Software Engineer - Backend & AI Systems",
-    company: "Lowe's India",
+    Ex-company: "Lowe's India",
     passion: "Building scalable products that users love",
     
     currentFocus: [
