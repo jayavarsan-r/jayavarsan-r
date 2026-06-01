@@ -1,189 +1,275 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3F8FFF&center=true&vCenter=true&random=false&width=700&lines=AI+Systems+%26+Backend+Engineer;LLMs+%7C+Agents+%7C+Clinical+AI;From+Formula+Engines+to+Multi-Agent+Orchestration;Building+Things+That+Actually+Think+%F0%9F%A4%96)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=750&lines=AI+Systems+%26+Backend+Engineer+%F0%9F%A4%96;LLMs+%E2%80%A2+Agents+%E2%80%A2+Clinical+AI+%E2%80%A2+RL;I+design+the+system+%E2%80%94+not+just+the+prompt)](https://git.io/typing-svg)
 
 <br/>
 
-[![Open To Work](https://img.shields.io/badge/%F0%9F%9A%80_Open_To_Work-success?style=flat-square)](mailto:jayavarsanr@gmail.com)
-[![AI Engineer](https://img.shields.io/badge/%F0%9F%A4%96_AI_Systems_Builder-8A2BE2?style=flat-square)](https://github.com/jayavarsan-r)
-[![Chennai](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B3_Chennai-gray?style=flat-square)](#)
-
-<br/>
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayavarsanr@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jayavarsan)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jayavarsan-r)
-[![Phone](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919025496316)
+<a href="mailto:jayavarsanr@gmail.com"><img src="https://img.shields.io/badge/-%F0%9F%9A%80%20Open%20To%20Work-1a1a2e?style=for-the-badge"/></a>
+<a href="mailto:jayavarsanr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/jayavarsan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/jayavarsan-r"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
+<br/>
+
 ---
 
-## 🤖 Who I Am
-
-> Building AI systems that solve real problems — not demos, not prototypes. Production.
+## 🧠 Who I Am
 
 ```python
 jayavarsan = {
-  "role"    : "AI Systems & Backend Engineer",
+  "role"    : "AI Systems & Backend Engineer  •  Chennai 🇮🇳",
+  "at"      : "Lowe's India (ex-intern → AI team)",
   "building": ["RL agents", "multi-agent systems", "clinical AI", "trading engines"],
   "stack"   : ["Python", "FastAPI", "Node.js", "PostgreSQL", "LLMs", "React"],
-  "mindset" : "design the system first, then write the code",
+  "mindset" : "design the system first — then write the code 🤖",
 }
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
-## 📊 By The Numbers
+## 📊 Impact At A Glance
 
 <div align="center">
 
-| ⚡ API Speed | 📈 DB Performance | 🤖 AI Agents Built | 🏆 Hackathon Wins |
-|:-----------:|:-----------------:|:------------------:|:-----------------:|
-| **30% faster** | **40% better** | **6 specialized** | **3 first-place** |
+<table>
+  <tr>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/API%20Speed-▲%2030%25%20faster-6C63FF?style=for-the-badge"/>
+    </td>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/DB%20Perf-▲%2040%25%20better-0F6E56?style=for-the-badge"/>
+    </td>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/AI%20Agents-6%20specialized-185FA5?style=for-the-badge"/>
+    </td>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/Hackathons-3%20%F0%9F%8F%86%20wins-D85A30?style=for-the-badge"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
 ## 🌟 Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 🧬 HealthAgentEnv
-![Production](https://img.shields.io/badge/Production-success?style=flat-square)
+![Production](https://img.shields.io/badge/Production-1D9E75?style=flat-square&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![RL](https://img.shields.io/badge/PPO_&_SAC-8A2BE2?style=flat-square)
+![RL](https://img.shields.io/badge/PPO%20%26%20SAC-6C63FF?style=flat-square)
 
-> OpenEnv-compliant clinical RL benchmark. PPO & SAC agents trained on pharmacokinetic glucose dynamics. Not a toy — a reproducible benchmark with FastAPI endpoints.
+OpenEnv-compliant **clinical RL benchmark**.
+PPO & SAC agents on pharmacokinetic glucose dynamics.
+FastAPI endpoints. Reproducible. Production-grade.
 
----
+`Python` `FastAPI` `RL` `Clinical AI`
+
+</td>
+<td width="50%" valign="top">
 
 ### 🤖 AgentWiki
-![Live](https://img.shields.io/badge/Live-brightgreen?style=flat-square)
+![Live](https://img.shields.io/badge/Live%20Demo-brightgreen?style=flat-square)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM_Powered-FF6F00?style=flat-square)
+![LLM](https://img.shields.io/badge/Multi--Agent-FF6F00?style=flat-square)
 
-> Master orchestrator routes to 5 specialized agents: Research → Summarizer → Writer → Linker → Validator. Karpathy-style Markdown knowledge base. Zero RAG, pure structured reasoning chains.
+**5-agent orchestration** — Research → Summarizer → Writer → Linker → Validator.
+Karpathy-style Markdown knowledge base. Zero RAG. Pure agent reasoning chains.
 
-[![Live Demo →](https://img.shields.io/badge/%F0%9F%8C%90_Live_Demo-agent--pied--two.vercel.app-3F8FFF?style=flat-square)](https://agent-pied-two.vercel.app)
+[🌐 Live → agent-pied-two.vercel.app](https://agent-pied-two.vercel.app)
 
----
+`Next.js` `TypeScript` `LLM` `SSE` `Vercel`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 📈 Trading Signal Engine
-![Active](https://img.shields.io/badge/Active-orange?style=flat-square)
+![Active](https://img.shields.io/badge/Active-F59E0B?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-> Dual-mode formula engine: math expressions via `numexpr` + custom pattern detector for M-Zones, F-Zones & Anchor Candles. Fully modular — add 120 stocks without touching a single API.
+**Dual-mode formula engine** — math expressions via `numexpr` + custom pattern detector for M-Zones, F-Zones & Anchor Candles.
+Add 120 stocks without touching a single API.
 
----
+`FastAPI` `PostgreSQL` `Alembic` `numexpr` `Async`
+
+</td>
+<td width="50%" valign="top">
 
 ### 🏥 DTWIN
-![Production](https://img.shields.io/badge/Production-success?style=flat-square)
+![Production](https://img.shields.io/badge/Production-1D9E75?style=flat-square)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![ML](https://img.shields.io/badge/XGBoost_+_LLM-purple?style=flat-square)
+![ML](https://img.shields.io/badge/XGBoost%20%2B%20LLM-7C3AED?style=flat-square)
 
-> AI digital twin for chronic disease risk. XGBoost + LLM reasoning layer. Explainable predictions with confidence scores — no black-box outputs.
+AI **digital health twin** for chronic disease risk.
+XGBoost + LLM reasoning layer.
+Explainable predictions — no black-box outputs.
 
----
+`React` `Node.js` `MongoDB` `XGBoost` `LLM`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 📊 TradeView
 ![Live](https://img.shields.io/badge/Live-brightgreen?style=flat-square)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-> Full-stack trading platform with real-time market data, portfolio tracking, and AI sentiment analysis for trading decisions.
+Full-stack trading platform — real-time market data, portfolio tracking, AI sentiment analysis for decisions.
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 🛠️ Stack
-
-<div align="center">
-
-**Languages**
-![Python](https://skillicons.dev/icons?i=python,javascript,typescript,java&theme=dark)
-
-**AI & Backend**
-![Stack](https://skillicons.dev/icons?i=fastapi,nodejs,express&theme=dark)
-![LLM](https://img.shields.io/badge/LLM_Pipelines-FF6F00?style=flat-square)
-![Agents](https://img.shields.io/badge/Agent_Orchestration-8A2BE2?style=flat-square)
-![RL](https://img.shields.io/badge/RL_(PPO/SAC)-00CED1?style=flat-square)
-
-**Frontend & Mobile**
-![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter&theme=dark)
-
-**Data**
-![DB](https://skillicons.dev/icons?i=postgresql,mongodb,redis&theme=dark)
-
-**DevOps**
-![DevOps](https://skillicons.dev/icons?i=docker,aws,github,linux&theme=dark)
-![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 💼 Experience
-
-<table>
-<tr>
-<td width="50%">
-
-**🏢 Lowe's India** — Intern
-`Aug 2024 – Present`
-- 30% faster APIs · 40% better DB queries
-- Monolith → modular architecture
-- CI/CD pipelines · integration tests
+`Flutter` `Node.js` `MongoDB` `AI Sentiment`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🚀 Future Sportler** — Product Lead
-`Jan 2025 – Aug 2025`
-- Led sports marketplace (mobile + web)
-- Owned architecture from day one
-- DB schema → production UI, end-to-end
+### 🎯 Lead Engine
+![Active](https://img.shields.io/badge/Active-F59E0B?style=flat-square)
+![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+Automated **lead discovery system** — web intelligence pipelines, scalable backend, API-first design.
+
+`Node.js` `Express` `MongoDB` `Automation`
 
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
-## 🏆 Wins
+## 🛠️ Tech Stack
 
 <div align="center">
 
-🏆 **CTF Winner** — University of London International
-&nbsp;·&nbsp; 💻 **3× Hackathon Champion**
-&nbsp;·&nbsp; 👔 **Entrepreneurship Club President**
+**Languages**
+
+[![Skills](https://skillicons.dev/icons?i=python,javascript,typescript,java&theme=dark)](https://skillicons.dev)
+
+**AI & Backend**
+
+[![Skills](https://skillicons.dev/icons?i=fastapi,nodejs,express&theme=dark)](https://skillicons.dev)
+![LLM Pipelines](https://img.shields.io/badge/LLM%20Pipelines-FF6F00?style=flat-square)
+![Agent Orchestration](https://img.shields.io/badge/Agent%20Orchestration-6C63FF?style=flat-square)
+![RL PPO SAC](https://img.shields.io/badge/RL%20%28PPO%20%2F%20SAC%29-00CED1?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG%20Pipelines-E24B4A?style=flat-square)
+
+**Frontend & Mobile**
+
+[![Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter&theme=dark)](https://skillicons.dev)
+
+**Databases**
+
+[![Skills](https://skillicons.dev/icons?i=postgresql,mongodb,redis&theme=dark)](https://skillicons.dev)
+
+**DevOps**
+
+[![Skills](https://skillicons.dev/icons?i=docker,aws,git,github,linux&theme=dark)](https://skillicons.dev)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
-## 📊 GitHub
+## 💼 Experience
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 Lowe's India
+**Associate Software Developer Intern** · `Aug 2024 – Present`
+
+- ⚡ **30% faster** API response times
+- 📊 **40% improvement** in DB query performance  
+- 🏗️ Monolith → modular backend architecture
+- 🔧 CI/CD pipelines + integration tests end-to-end
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Future Sportler
+**Product Lead** · `Jan 2025 – Aug 2025`
+
+- 📱 Led sports marketplace — mobile + web
+- 🎯 Owned architecture decisions from day one
+- 👥 Ran Agile sprints in fast-paced startup
+- 📦 DB schema → production UI, end-to-end
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Achievements
 
 <div align="center">
+
+<table>
+<tr>
+<td align="center" width="200">
+<b>🏆 CTF Winner</b><br/>
+<sub>University of London</sub><br/>
+<sub>International Competition</sub>
+</td>
+<td align="center" width="200">
+<b>💻 3× Hackathon Champion</b><br/>
+<sub>Led teams to first place</sub><br/>
+<sub>Multiple competitions</sub>
+</td>
+<td align="center" width="200">
+<b>👔 Club President</b><br/>
+<sub>Entrepreneurship Club</sub><br/>
+<sub>Cross-functional leadership</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jayavarsan-r&theme=tokyonight" width="100%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jayavarsan-r&theme=tokyonight" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jayavarsan-r&theme=tokyonight" width="49%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jayavarsan-r&theme=tokyonight" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jayavarsan-r&theme=tokyonight" width="49%"/>
+
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
 ## 🎓 Education
 
-**B.Tech Software Product Development** · Vels University · `2023–2027`
+**B.Tech Software Product Development** · Vels University · `2023 – 2027`
+> Industry-driven · full-stack AI engineering · building real products from scratch
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
 <div align="center">
 
-*Open to AI engineering roles, backend systems, and founding-engineer opportunities*
+*Open to AI engineering roles, backend systems, and founding-engineer opportunities 🚀*
+
+<br/>
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&category=technology)
 
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" width="100%"/>
+
+⭐️ [Jayavarsan](https://github.com/jayavarsan-r) · made with 💙 and lots of ☕
 
 [![visits](https://visitcount.itsvg.in/api?id=jayavarsan-r&icon=0&color=0)](https://visitcount.itsvg.in)
 
