@@ -271,6 +271,4 @@ Automated **lead discovery system** — web intelligence pipelines, scalable bac
 
 ⭐️ [Jayavarsan](https://github.com/jayavarsan-r) · made with 💙 and lots of ☕
 
-[![visits](https://visitcount.itsvg.in/api?id=jayavarsan-r&icon=0&color=0)](https://visitcount.itsvg.in)
-
 </div>
