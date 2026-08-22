@@ -82,7 +82,7 @@ FastAPI endpoints. Reproducible. Production-grade.
 **5-agent orchestration** — Research → Summarizer → Writer → Linker → Validator.
 Karpathy-style Markdown knowledge base. Zero RAG. Pure agent reasoning chains.
 
-[🌐 Live → agent-pied-two.vercel.app](https://agent-pied-two.vercel.app)
+
 
 `Next.js` `TypeScript` `LLM` `SSE` `Vercel`
 
